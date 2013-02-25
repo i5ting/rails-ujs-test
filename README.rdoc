@@ -1,9 +1,9 @@
 ## 运行
 
-```ruby
-rake db:migrate
-rails server
-```
+ 
+	rake db:migrate
+	rails server
+ 
 打开 http://0.0.0.0:3000/events 测试一下吧
 
 
