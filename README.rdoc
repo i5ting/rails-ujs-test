@@ -7,6 +7,8 @@
 打开 http://0.0.0.0:3000/events 测试一下吧
 
 
+此例子对应的说明
+https://github.com/i5ting/rails-ujs-test/wiki/example-1:form-remote
 
 ## 参考文档
 
